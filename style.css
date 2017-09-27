@@ -1,0 +1,14 @@
+.title-block{
+  text-align: center;
+}
+
+.sales{
+    display: flex;
+    justify-content: center;
+
+}
+
+#searchForm{
+  text-align: center;
+  margin-top: 100px;
+}
